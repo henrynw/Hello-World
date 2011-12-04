@@ -1,5 +1,5 @@
 <?php
 
-echo 'Hello World. Today is ' . date();
+echo 'Hello World';
 
 ?>
